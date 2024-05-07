@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Dragon Wiki Plus 1.0
+---------------------------------------------------
+
+app_name - 						Dragon Wiki Plus
+app_alias - 					dragonwikiplus
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Arizona
+app_author_country - 			United States
+app_password - 					4RtSRWc1Vo6L
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Tuesday 7th of May 2024 01:06:06 AM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
